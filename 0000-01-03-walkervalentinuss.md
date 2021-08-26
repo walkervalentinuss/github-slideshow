@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 --
-Your text
+Walker Valentinus Simanjuntak
 use the left arrow to go Back!
